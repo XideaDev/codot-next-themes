@@ -1,5 +1,5 @@
 {
-  "kettuCatalog": 1,
+  "codotCatalog": 1,
   "themes": [
     {
       "id": "catppuccin",
@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "license": "MIT",
       "file": "themes/catppuccin.json",
-      "sha256": "ac24843e2df46e1cbe0573a3dc0994e8da22ab5c0f607f590b47b3761e469ea7",
+      "sha256": "76a9546516bdba6e3a5cb815b4ed15054a18892077fc4ab7aa03d4707d3aa477",
       "preview": {
         "light": {
           "bg-app": "#eff1f5",
@@ -43,7 +43,7 @@
       "version": "1.0.0",
       "license": "MIT",
       "file": "themes/gruvbox.json",
-      "sha256": "564a037cd9b071518ce2afa236b4c521b1cd5e98322481fb8dbda20005106ae1",
+      "sha256": "72eaec78cd0bc499a459254e5649ab02ac77df89272151ed8a8ab31a77bfff3a",
       "preview": {
         "light": {
           "bg-app": "#fbf1c7",
@@ -78,7 +78,7 @@
       "version": "1.0.0",
       "license": "MIT",
       "file": "themes/nord.json",
-      "sha256": "3e4582a53d29a5bf09c01f9b525ae4f81d7c64d98368e4cf54ed08534a83bdb4",
+      "sha256": "88b1a174fb691d0684db94a8e826e57fdddc1f002a430ec63caf736419688851",
       "preview": {
         "light": {
           "bg-app": "#eceff4",
@@ -109,11 +109,11 @@
     {
       "id": "paper",
       "name": "Paper",
-      "author": "Kettu",
+      "author": "Codot",
       "version": "1.0.0",
       "license": "MIT",
       "file": "themes/paper.json",
-      "sha256": "4b0680014dc9a51acb67353dfca6e61ee3e6038d22caf6bb10c2181c19480bb1",
+      "sha256": "ec804b66b2af470bcddc90813d965cdb713be5b6720e2171b04624b97cca50c2",
       "preview": {
         "light": {
           "bg-app": "#fdfcf9",
@@ -148,7 +148,7 @@
       "version": "1.0.0",
       "license": "MIT",
       "file": "themes/rose-pine.json",
-      "sha256": "2072f62999faa81fc6fd590e640f36ff39c553db68098f42868c6d8e35e5e7d6",
+      "sha256": "19e5a0c85cf986a999a18c2b254409b36b54928dbbdb3d6ea45a65699c65092e",
       "preview": {
         "light": {
           "bg-app": "#faf4ed",
@@ -183,7 +183,7 @@
       "version": "1.0.0",
       "license": "MIT",
       "file": "themes/solarized.json",
-      "sha256": "8e03b2658dad3fe146569800ffd1156ac040346be70a8a97d92843b5ee4bdccd",
+      "sha256": "cd16a73c70d2c8abc35f360674b7ff44f235f6359aba9483dca8d308192a49b3",
       "preview": {
         "light": {
           "bg-app": "#fdf6e3",
@@ -218,7 +218,7 @@
       "version": "1.0.0",
       "license": "MIT",
       "file": "themes/tokyo-night.json",
-      "sha256": "38cd293ef416df0ae450f66a4c67d37430a25628096d0f53ee153ec7b4de7a5f",
+      "sha256": "290943aa1198faabfb5438666ac1adadd38ccf8fa4d647aff172cdd60fb44283",
       "preview": {
         "light": {
           "bg-app": "#e6e7ed",

@@ -1,10 +1,10 @@
 {
-  "kettuTheme": 1,
+  "codotTheme": 1,
   "name": "Paper",
-  "author": "Kettu",
+  "author": "Codot",
   "version": "1.0.0",
   "license": "MIT",
-  "source": "https://github.com/KettuAI/Kettu",
+  "source": "https://github.com/XideaDev/Codot.app",
   "fonts": {
     "ui": "inter",
     "prose": "source-serif-4",
